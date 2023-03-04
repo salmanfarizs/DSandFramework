@@ -1,0 +1,14 @@
+2 pointers algorithm
+
+
+
+opposite direction
+
+
+String buffer rev uses 2 pointer algorithm
+
+while loop on opposite direction
+
+
+Onotation need is to find optimized solution
+

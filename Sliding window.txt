@@ -1,0 +1,13 @@
+same set of data seingle path
+again same two path
+default value of int array = 0
+always cover neg,edge cases then write positive cases
+Arrays.sort = O[nlogn
+
+
+
+
+keywords
+
+consecutive elements
+arrays/string with target		

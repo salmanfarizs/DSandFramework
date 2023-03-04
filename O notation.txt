@@ -1,0 +1,24 @@
+O[1] = costant time
+O[n] = linear time
+O[n2] = n * n quadratic time
+O[log n] = Logirathmic time
+
+constant time
+example 
+a+b
+
+even if input is big or small going to take constant time(not based on input)
+
+
+linear time
+O[n] - time changes based on given input
+
+example: for loop
+
+
+
+you can ignore the constant ie O[1]
+
+2 diff input O[n*m]
+
+O[3n^2] = O[n^2] ---> Quadratic time
